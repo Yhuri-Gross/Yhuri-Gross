@@ -16,7 +16,7 @@
   <img align="center" alt="Java" height="30" width="40" src="https://camo.githubusercontent.com/65b616ed4448c46e59c11345a1d49a01adc6d51f9bd6e93ee61d29573e04c597/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2d776f72646d61726b2e737667">
   <img align="center" alt="Angular" height="30" width="40" src="https://miro.medium.com/max/256/1*3H6_a9Srb655m3NiqlbbKQ.png">
   <img align="center" alt="Typescript" height="30" width="40" src="https://styles.redditmedia.com/t5_2v6gg/styles/communityIcon_4w7vh6c21f871.png">
-  <img align="center" alt="Spring boot" height="30" width="40" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png">
+  <img align="center" alt="Spring boot" height="30" width="40" src="https://camo.githubusercontent.com/a8e2a5e36df66e1a1c36912287b4dbc5e72fa5d154ab191b7fc5c6e1f32fc8fd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f737072696e672f737072696e672d6f726967696e616c2d776f72646d61726b2e737667">
   <img align="center" alt="MySQL" height="30" width="40" src="https://logospng.org/download/mysql/mysql-256.png">
   <img align="center" alt="Docker" height="30" width="40" src="https://www.svgrepo.com/show/303231/docker-logo.svg">
 </div>
